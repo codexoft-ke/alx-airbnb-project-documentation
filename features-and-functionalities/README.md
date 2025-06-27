@@ -63,13 +63,3 @@ This document outlines the key backend features and functionalities required to 
 - **System Metrics**: View stats on bookings, users, and payments.
 
 ---
-
-## 📁 Directory Info
-- **Location**: `features-and-functionalities/`
-- **File**: `README.md`
-- **Diagram**: Include `features-and-functionalities.png` exported from Draw.io
-
----
-
-## 📌 Notes
-- This documentation will guide the creation of a **Use Case Diagram**, **User Stories**, **Data Flow Diagram**, and **Requirements Specification**.
